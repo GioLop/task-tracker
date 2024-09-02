@@ -1,0 +1,18 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "task-cli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nanoid": "^3.3.4"
+  }
+}
