@@ -25,13 +25,19 @@ git clone https://github.com/GioLop/task-tracker.git
 cd task-tracker
 ```
 
-3. Install it globally.
+3. Install dependecies.
+
+```shell
+npm i
+```
+
+4. Install app globally.
 
 ```shell
 npm install -g .
 ```
 
-Now you can use it
+Now you can use it.
 
 ## How to run it and options
 
